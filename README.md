@@ -1,5 +1,3 @@
-*Had to reupload because I did not correctly use the .gitignore*
-
 # Apple Picker
 
 ## Project Description
